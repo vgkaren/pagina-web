@@ -1,8 +1,0 @@
-<?php
-$Servidor = "localhost";
-$Usuario = "root";
-$Pass = "";
-$BD = "pag";
-
-$Conection = new MySqli($Servidor, $Usuario, $Pass, $BD);
-?>
